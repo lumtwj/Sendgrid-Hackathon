@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hackathon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_block">Block</string>
+    <string name="logging_in">Logging in..</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_bounce">Bounce</string>
+    <string name="title_activity_invalid_email">Invalid email</string>
+    <string name="title_activity_unsubscribes">Unsubscribes</string>
+    <string name="title_activity_spam_report">Spam report</string>
+    <string name="title_activity_send_email">Send email</string>
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject</string>
+    <string name="from">From</string>
+    <string name="send_email">Sending email..</string>
+
+</resources>
